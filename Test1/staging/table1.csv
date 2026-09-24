@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,email,department,job_title,salary,bonus_pct,currency,hire_date,country,city,phone,manager_id,cost_center,employment_status,level,is_active,last_login,notes
+E1001,Logan,Hollis,logan.hollis@example.com,Data,Senior Manager,58500,17.7,USD,2019-02-25,United Kingdom,Bristol,+1-414-728-1923,E1063,CC-773,Active,L1,false,2026-09-08 14:22,Awaiting badge issue
+E1002,Avery,Zeller,avery.zeller@example.com,Engineering,Senior Manager,194500,13.8,EUR,2024-09-29,Japan,Fukuoka,+1-540-778-7831,E1077,CC-253,Contractor,L1,false,2026-09-12 11:36,Part-time schedule
+E1003,Quinn,Kowalski,quinn.kowalski@example.com,Marketing,Staff Engineer,182500,18.7,JPY,2015-08-25,Brazil,Sao Paulo,+1-621-392-4989,E1079,CC-707,Contractor,L6,true,2026-09-09 05:00,Part-time schedule
+E1004,Umber,Mbeki,umber.mbeki@example.com,Data,Director,134500,18.4,JPY,2015-11-30,Canada,Vancouver,+1-730-490-4512,E1098,CC-115,Probation,L1,false,2026-09-08 02:17,Mentor programme
+E1005,Sawyer,Nakamura,sawyer.nakamura@example.com,Finance,Specialist,55500,2.6,GBP,2021-04-07,United States,Seattle,+1-236-674-8586,E1047,CC-514,Active,L3,true,2026-09-18 01:25,Mentor programme
+E1006,Sawyer,Yardley,sawyer.yardley@example.com,Customer Success,Specialist,62500,19.2,USD,2017-05-14,United Kingdom,London,+1-860-920-7630,E1045,CC-204,On Leave,L6,true,2026-09-16 22:20,Mentor programme
+E1007,Vesper,Ueda,vesper.ueda@example.com,Customer Success,Director,193000,16.1,USD,2021-04-30,United States,Chicago,+1-970-638-9271,E1079,CC-189,Contractor,L4,false,2026-09-19 00:55,Awaiting badge issue
+E1008,Emerson,Larkin,emerson.larkin@example.com,Operations,Staff Engineer,114500,20.5,GBP,2023-10-18,United States,Boston,+1-296-955-2889,E1052,CC-319,Active,L2,true,2026-09-19 18:56,
+E1009,Avery,Janssen,avery.janssen@example.com,Legal,Engineer,83500,5.2,JPY,2019-09-12,Canada,Toronto,+1-779-641-9813,E1043,CC-451,Active,L6,true,2026-09-14 20:14,Awaiting badge issue
+E1010,Casey,Hollis,casey.hollis@example.com,Finance,Staff Engineer,139500,16.6,USD,2015-09-29,United Kingdom,Manchester,+1-340-824-5323,E1042,CC-729,Contractor,L2,false,2026-09-09 18:35,Awaiting badge issue
+E1011,Quinn,Petrov,quinn.petrov@example.com,People,Senior Engineer,87500,21.1,GBP,2022-04-20,United Kingdom,Manchester,+1-998-751-6054,E1005,CC-967,Contractor,L1,true,2026-09-16 02:42,Relocation pending
+E1012,Noor,Sokolova,noor.sokolova@example.com,Customer Success,Director,167500,13.1,BRL,2019-04-15,Brazil,Curitiba,+1-219-835-5568,E1088,CC-964,Probation,L3,false,2026-09-22 23:54,Awaiting badge issue
+E1013,Finley,Osei,finley.osei@example.com,Operations,Staff Engineer,156000,1.8,CAD,2019-03-04,Germany,Hamburg,+1-638-243-4870,E1031,CC-934,Probation,L2,false,2026-09-06 04:58,Relocation pending
+E1014,Dakota,Petrov,dakota.petrov@example.com,Marketing,Senior Manager,193500,20.5,CAD,2022-07-14,United States,Seattle,+1-560-257-4631,E1047,CC-843,Active,L3,true,2026-09-07 20:30,Part-time schedule
+E1015,Vesper,Iyer,vesper.iyer@example.com,Data,Staff Engineer,108500,11.4,GBP,2015-10-01,United Kingdom,London,+1-532-311-7661,E1066,CC-320,Probation,L1,true,2026-09-17 00:56,Part-time schedule
+E1016,Vesper,Vasquez,vesper.vasquez@example.com,Operations,Senior Manager,104500,6.4,GBP,2019-07-05,Brazil,Sao Paulo,+1-865-310-4302,E1063,CC-666,Contractor,L2,false,2026-09-22 00:42,
+E1017,Casey,Whitfield,casey.whitfield@example.com,People,Manager,158500,14.9,USD,2016-01-28,United Kingdom,Bristol,+1-630-438-8237,E1025,CC-862,Contractor,L1,false,2026-09-21 21:15,Awaiting badge issue
+E1018,Xael,Larkin,xael.larkin@example.com,Finance,Manager,171000,2.2,JPY,2022-11-03,Japan,Fukuoka,+1-918-264-9058,E1011,CC-109,Probation,L3,false,2026-09-07 06:16,Mentor programme
+E1019,Logan,Whitfield,logan.whitfield@example.com,Legal,Senior Engineer,193500,1.2,USD,2017-02-10,Japan,Tokyo,+1-719-727-5868,E1070,CC-797,Probation,L2,false,2026-09-07 03:23,Part-time schedule
+E1020,Kai,Vasquez,kai.vasquez@example.com,People,Director,90500,11.1,EUR,2017-01-14,Brazil,Sao Paulo,+1-823-990-8407,E1054,CC-797,Active,L5,true,2026-09-13 17:01,Part-time schedule
+E1021,Indigo,Ximenes,indigo.ximenes@example.com,Customer Success,Analyst,206000,5.5,JPY,2019-01-17,Brazil,Curitiba,+1-827-895-4940,E1082,CC-734,Probation,L1,false,2026-09-13 12:05,Part-time schedule
+E1022,Wren,Petrov,wren.petrov@example.com,Customer Success,Manager,188500,9.1,JPY,2020-06-07,Japan,Tokyo,+1-588-918-3859,E1018,CC-997,Active,L4,true,2026-09-16 02:28,Relocation pending
+E1023,Jordan,Ellison,jordan.ellison@example.com,Data,Lead,70000,12.5,CAD,2023-11-13,United Kingdom,Manchester,+1-481-942-6269,E1013,CC-835,On Leave,L2,true,2026-09-01 20:29,Transferred from Ops
+E1024,Vesper,Ellison,vesper.ellison@example.com,Customer Success,Associate,78500,2.4,EUR,2022-03-20,Canada,Vancouver,+1-989-245-4938,E1077,CC-785,On Leave,L6,false,2026-09-06 15:50,Mentor programme
+E1025,Vesper,Sokolova,vesper.sokolova@example.com,Marketing,Engineer,139000,14.9,JPY,2024-02-12,Germany,Hamburg,+1-778-369-3605,E1028,CC-853,Probation,L4,false,2026-09-21 15:38,
+E1026,Avery,Delgado,avery.delgado@example.com,Marketing,Analyst,159000,7.9,JPY,2015-02-14,Brazil,Curitiba,+1-691-716-6956,E1023,CC-398,Active,L1,false,2026-09-03 16:58,Mentor programme
+E1027,Zion,Mbeki,zion.mbeki@example.com,Legal,Senior Manager,181000,9.1,USD,2018-02-19,Canada,Montreal,+1-528-974-6002,E1037,CC-468,Probation,L2,false,2026-09-15 07:56,Awaiting badge issue
+E1028,Yuki,Thibault,yuki.thibault@example.com,Marketing,Engineer,77500,18.8,EUR,2017-06-14,United States,Denver,+1-661-208-1481,E1080,CC-615,Probation,L2,true,2026-09-18 21:53,Relocation pending
+E1029,Kai,Quintero,kai.quintero@example.com,Engineering,Engineer,196000,16.4,USD,2022-01-19,Canada,Montreal,+1-641-396-4120,E1094,CC-987,Active,L6,false,2026-09-07 20:56,Mentor programme
+E1030,Finley,Whitfield,finley.whitfield@example.com,Legal,Director,182000,13.2,JPY,2019-08-04,Japan,Osaka,+1-740-319-8082,E1100,CC-284,Probation,L2,true,2026-09-17 12:03,Mentor programme
+E1031,Finley,Iyer,finley.iyer@example.com,Data,Senior Manager,182000,21.7,CAD,2018-09-27,Canada,Toronto,+1-341-714-9057,E1048,CC-141,Active,L1,false,2026-09-03 19:53,Mentor programme
+E1032,Quinn,Vasquez,quinn.vasquez@example.com,Finance,Director,116500,20.0,JPY,2023-05-23,Japan,Tokyo,+1-794-884-3987,E1071,CC-915,Active,L3,false,2026-09-10 08:23,
+E1033,Greer,Fontaine,greer.fontaine@example.com,Finance,Analyst,119000,11.1,USD,2020-03-09,United States,Chicago,+1-683-756-5882,E1093,CC-796,Active,L1,false,2026-09-03 12:27,Mentor programme
+E1034,Blair,Alvarez,blair.alvarez@example.com,Marketing,Senior Engineer,70500,11.2,JPY,2019-03-10,United States,Seattle,+1-978-525-5308,E1078,CC-964,Contractor,L2,true,2026-09-15 21:00,Relocation pending
+E1035,Noor,Whitfield,noor.whitfield@example.com,Data,Staff Engineer,211000,7.0,GBP,2017-04-23,Brazil,Sao Paulo,+1-796-843-1803,E1010,CC-378,Contractor,L5,false,2026-09-20 20:52,
+E1036,Vesper,Zeller,vesper.zeller@example.com,Operations,Director,150500,17.0,USD,2019-08-22,United States,Denver,+1-421-201-7594,E1069,CC-522,Contractor,L3,true,2026-09-04 02:05,Relocation pending
+E1037,Marlow,Rasmussen,marlow.rasmussen@example.com,Legal,Lead,56000,11.0,USD,2018-12-18,Germany,Berlin,+1-506-757-7914,E1026,CC-391,On Leave,L3,true,2026-09-06 09:12,Part-time schedule
+E1038,Harper,Hollis,harper.hollis@example.com,Customer Success,Lead,138500,18.0,GBP,2021-07-25,Canada,Toronto,+1-212-426-7780,E1006,CC-403,On Leave,L1,false,2026-09-03 20:53,
+E1039,Noor,Yardley,noor.yardley@example.com,Finance,Staff Engineer,154000,12.3,CAD,2020-02-12,Germany,Berlin,+1-636-496-8776,E1055,CC-964,Active,L4,false,2026-09-13 12:32,
+E1040,Emerson,Quintero,emerson.quintero@example.com,Engineering,Director,109500,7.1,CAD,2019-03-24,Japan,Tokyo,+1-603-888-5809,E1045,CC-565,Probation,L4,true,2026-09-05 05:34,Transferred from Ops
+E1041,Logan,Fontaine,logan.fontaine@example.com,Finance,Analyst,140500,3.4,USD,2022-06-07,Germany,Hamburg,+1-394-263-8328,E1045,CC-651,Active,L1,false,2026-09-07 10:52,Part-time schedule
+E1042,Tatum,Hollis,tatum.hollis@example.com,Operations,Analyst,67500,9.7,BRL,2016-10-09,Japan,Fukuoka,+1-326-573-2580,E1045,CC-875,Active,L2,true,2026-09-01 18:20,Mentor programme
+E1043,Blair,Janssen,blair.janssen@example.com,Customer Success,Specialist,189000,17.8,BRL,2019-05-07,Canada,Toronto,+1-352-510-5954,E1070,CC-434,On Leave,L6,false,2026-09-20 07:28,Awaiting badge issue
+E1044,Harper,Delgado,harper.delgado@example.com,People,Senior Engineer,208500,3.1,JPY,2021-11-12,United States,Chicago,+1-592-516-2055,E1029,CC-562,Contractor,L3,false,2026-09-02 08:05,Transferred from Ops
+E1045,Casey,Chowdhury,casey.chowdhury@example.com,Operations,Senior Manager,167500,1.7,JPY,2022-06-26,United States,Seattle,+1-691-395-9470,E1085,CC-515,On Leave,L2,true,2026-09-16 10:59,
+E1046,Parker,Ueda,parker.ueda@example.com,Data,Lead,144000,9.0,GBP,2016-03-02,Japan,Fukuoka,+1-333-296-9887,E1086,CC-666,On Leave,L6,true,2026-09-09 23:21,Transferred from Ops
+E1047,Quinn,Yardley,quinn.yardley@example.com,Marketing,Specialist,75000,18.0,USD,2016-03-18,Brazil,Sao Paulo,+1-825-212-4980,E1074,CC-782,On Leave,L5,false,2026-09-03 18:03,Mentor programme
+E1048,Wren,Hollis,wren.hollis@example.com,Engineering,Senior Engineer,102500,20.7,BRL,2016-12-27,Japan,Tokyo,+1-845-811-3806,E1098,CC-707,On Leave,L3,false,2026-09-04 18:53,Relocation pending
+E1049,Marlow,Larkin,marlow.larkin@example.com,Engineering,Lead,102500,11.5,EUR,2021-04-19,United States,Denver,+1-296-284-8910,E1066,CC-727,Probation,L1,false,2026-09-10 05:39,Awaiting badge issue
+E1050,Kai,Thibault,kai.thibault@example.com,People,Engineer,61000,20.4,JPY,2024-08-24,United States,Boston,+1-833-889-8925,E1017,CC-213,Active,L3,true,2026-09-09 18:53,Relocation pending
+E1051,Indigo,Vasquez,indigo.vasquez@example.com,People,Director,159000,8.4,BRL,2023-11-10,United Kingdom,Manchester,+1-896-571-1198,E1074,CC-557,Contractor,L5,true,2026-09-01 22:15,Awaiting badge issue
+E1052,Noor,Janssen,noor.janssen@example.com,Data,Manager,117500,16.5,BRL,2015-07-18,Japan,Tokyo,+1-764-210-9420,E1061,CC-788,On Leave,L1,false,2026-09-05 05:52,Awaiting badge issue
+E1053,Sawyer,Janssen,sawyer.janssen@example.com,Marketing,Associate,104500,19.5,BRL,2021-05-15,Japan,Osaka,+1-205-881-3690,E1041,CC-589,Active,L6,false,2026-09-12 16:53,Awaiting badge issue
+E1054,Kai,Mbeki,kai.mbeki@example.com,Marketing,Manager,166500,6.0,EUR,2023-07-14,Canada,Toronto,+1-431-498-5114,E1072,CC-362,Probation,L6,true,2026-09-17 10:16,Mentor programme
+E1055,Sawyer,Hollis,sawyer.hollis@example.com,Operations,Manager,74000,0.5,CAD,2019-04-08,Brazil,Recife,+1-480-747-6840,E1012,CC-432,On Leave,L1,false,2026-09-04 23:54,Part-time schedule
+E1056,Indigo,Fontaine,indigo.fontaine@example.com,Legal,Senior Engineer,98500,9.8,BRL,2015-09-19,United Kingdom,Bristol,+1-858-232-7479,E1025,CC-315,Contractor,L4,false,2026-09-11 21:40,Mentor programme
+E1057,Casey,Zeller,casey.zeller@example.com,Operations,Engineer,69500,11.8,JPY,2016-09-23,Germany,Berlin,+1-959-749-3152,E1032,CC-171,On Leave,L2,false,2026-09-16 13:03,
+E1058,Logan,Chowdhury,logan.chowdhury@example.com,Operations,Lead,202000,16.0,EUR,2018-01-02,Germany,Munich,+1-977-864-1721,E1010,CC-686,Probation,L3,true,2026-09-19 12:01,
+E1059,Umber,Ellison,umber.ellison@example.com,Engineering,Engineer,54000,21.8,EUR,2023-08-28,Germany,Munich,+1-893-616-2777,E1049,CC-883,Probation,L5,false,2026-09-21 14:26,
+E1060,Casey,Chowdhury,casey.chowdhury@example.com,Customer Success,Associate,134500,7.4,EUR,2015-05-12,United Kingdom,London,+1-889-707-1503,E1052,CC-532,Contractor,L2,true,2026-09-12 01:54,Relocation pending
+E1061,Jordan,Yardley,jordan.yardley@example.com,Customer Success,Associate,147000,17.1,EUR,2024-07-28,Brazil,Sao Paulo,+1-590-601-2271,E1098,CC-834,Contractor,L6,true,2026-09-06 23:38,Awaiting badge issue
+E1062,Oakley,Rasmussen,oakley.rasmussen@example.com,Customer Success,Associate,156500,0.8,BRL,2018-03-30,United Kingdom,London,+1-861-848-9865,E1011,CC-432,On Leave,L5,true,2026-09-01 00:56,Transferred from Ops
+E1063,Indigo,Zeller,indigo.zeller@example.com,Engineering,Lead,131000,2.1,JPY,2021-01-10,United Kingdom,Manchester,+1-923-553-3079,E1023,CC-618,Contractor,L5,true,2026-09-12 16:34,Mentor programme
+E1064,Kai,Thibault,kai.thibault@example.com,Data,Engineer,158000,11.3,EUR,2015-08-17,United States,Austin,+1-740-621-8573,E1006,CC-551,On Leave,L5,false,2026-09-06 18:02,Relocation pending
+E1065,Emerson,Fontaine,emerson.fontaine@example.com,Engineering,Analyst,198000,18.3,BRL,2018-02-15,Canada,Toronto,+1-245-706-1589,E1093,CC-407,On Leave,L4,true,2026-09-02 12:19,Awaiting badge issue
+E1066,Kai,Fontaine,kai.fontaine@example.com,Data,Specialist,119500,3.4,BRL,2024-02-09,Japan,Tokyo,+1-920-616-4181,E1022,CC-663,On Leave,L6,true,2026-09-16 23:12,Relocation pending
+E1067,Finley,Zeller,finley.zeller@example.com,Data,Manager,163000,17.6,JPY,2018-01-11,Canada,Toronto,+1-877-532-5698,E1019,CC-628,Active,L6,true,2026-09-04 10:59,Transferred from Ops
+E1068,Logan,Janssen,logan.janssen@example.com,People,Lead,194500,19.7,CAD,2024-05-24,Brazil,Sao Paulo,+1-445-246-9896,E1099,CC-387,Contractor,L2,false,2026-09-01 15:17,Relocation pending
+E1069,Sawyer,Quintero,sawyer.quintero@example.com,People,Specialist,182000,9.0,USD,2015-06-05,Germany,Berlin,+1-318-496-4083,E1024,CC-991,Active,L3,true,2026-09-08 18:25,Relocation pending
+E1070,Indigo,Bennett,indigo.bennett@example.com,Operations,Staff Engineer,72000,13.2,JPY,2019-07-27,United Kingdom,Manchester,+1-465-815-1811,E1059,CC-188,Active,L5,false,2026-09-18 20:05,Awaiting badge issue
+E1071,Parker,Alvarez,parker.alvarez@example.com,Customer Success,Manager,126500,11.4,GBP,2023-11-19,Germany,Hamburg,+1-520-482-6245,E1043,CC-637,Active,L6,false,2026-09-16 21:16,Transferred from Ops
+E1072,Reese,Vasquez,reese.vasquez@example.com,Finance,Specialist,96500,14.7,EUR,2020-11-17,Brazil,Sao Paulo,+1-721-207-4614,E1035,CC-273,Contractor,L2,true,2026-09-12 08:56,Part-time schedule
+E1073,Greer,Chowdhury,greer.chowdhury@example.com,Legal,Specialist,54000,12.5,USD,2021-10-21,Germany,Berlin,+1-643-998-2743,E1015,CC-983,Contractor,L4,false,2026-09-06 18:07,Awaiting badge issue
+E1074,Avery,Bennett,avery.bennett@example.com,Marketing,Associate,104500,3.4,CAD,2020-07-05,Japan,Fukuoka,+1-365-463-6008,E1095,CC-950,Active,L3,true,2026-09-07 03:31,Awaiting badge issue
+E1075,Sawyer,Hollis,sawyer.hollis@example.com,Operations,Manager,159000,21.9,GBP,2018-08-13,United Kingdom,London,+1-359-225-1156,E1013,CC-848,Probation,L6,true,2026-09-08 03:49,Part-time schedule
+E1076,Logan,Mbeki,logan.mbeki@example.com,Marketing,Director,77500,2.7,BRL,2024-07-18,United Kingdom,London,+1-918-681-1307,E1029,CC-540,On Leave,L5,false,2026-09-21 04:41,Transferred from Ops
+E1077,Emerson,Sokolova,emerson.sokolova@example.com,People,Manager,204000,6.5,CAD,2019-01-06,Germany,Hamburg,+1-295-752-5701,E1047,CC-245,On Leave,L4,true,2026-09-20 07:19,Part-time schedule
+E1078,Jordan,Fontaine,jordan.fontaine@example.com,Legal,Specialist,68000,15.0,EUR,2019-03-02,United Kingdom,Manchester,+1-758-253-4645,E1057,CC-410,On Leave,L3,true,2026-09-04 06:19,Part-time schedule
+E1079,Jordan,Rasmussen,jordan.rasmussen@example.com,Marketing,Senior Manager,187500,9.8,USD,2016-08-14,Japan,Tokyo,+1-497-727-7707,E1048,CC-159,Probation,L1,false,2026-09-05 23:52,Part-time schedule
+E1080,Zion,Yardley,zion.yardley@example.com,Legal,Specialist,132500,4.3,EUR,2022-01-24,Japan,Tokyo,+1-888-769-9570,E1084,CC-920,Contractor,L1,false,2026-09-11 16:43,Part-time schedule
+E1081,Noor,Larkin,noor.larkin@example.com,Customer Success,Senior Engineer,54000,1.0,CAD,2018-06-12,Canada,Vancouver,+1-292-331-7391,E1080,CC-506,Contractor,L2,true,2026-09-21 08:55,Awaiting badge issue
+E1082,Emerson,Yardley,emerson.yardley@example.com,People,Senior Manager,181000,1.8,GBP,2024-06-06,Japan,Tokyo,+1-601-727-4002,E1068,CC-170,On Leave,L2,false,2026-09-08 22:30,Relocation pending
+E1083,Sawyer,Garrity,sawyer.garrity@example.com,Customer Success,Manager,193500,11.5,CAD,2018-05-02,United Kingdom,Bristol,+1-481-281-5675,E1093,CC-943,Contractor,L6,true,2026-09-04 03:29,Transferred from Ops
+E1084,Indigo,Rasmussen,indigo.rasmussen@example.com,Legal,Analyst,138000,11.0,BRL,2019-06-10,Japan,Fukuoka,+1-826-754-7837,E1071,CC-327,Contractor,L1,false,2026-09-19 14:13,Awaiting badge issue
+E1085,Sawyer,Janssen,sawyer.janssen@example.com,Engineering,Lead,185000,4.4,BRL,2022-06-04,Brazil,Sao Paulo,+1-876-249-2008,E1044,CC-488,Active,L4,false,2026-09-13 22:45,Awaiting badge issue
+E1086,Tatum,Ueda,tatum.ueda@example.com,Marketing,Staff Engineer,132000,0.1,USD,2023-10-04,Germany,Munich,+1-730-680-8616,E1011,CC-267,Probation,L2,false,2026-09-11 20:42,Transferred from Ops
+E1087,Harper,Ueda,harper.ueda@example.com,Marketing,Specialist,128500,9.1,GBP,2015-08-08,Brazil,Curitiba,+1-967-811-7817,E1052,CC-282,Contractor,L4,false,2026-09-22 15:23,Part-time schedule
+E1088,Yuki,Ueda,yuki.ueda@example.com,Legal,Staff Engineer,200000,7.5,EUR,2020-11-18,Japan,Tokyo,+1-859-344-1390,E1097,CC-413,Probation,L2,true,2026-09-20 07:09,Transferred from Ops
+E1089,Jordan,Quintero,jordan.quintero@example.com,Operations,Director,112500,19.6,BRL,2024-06-10,Japan,Tokyo,+1-561-951-6698,E1011,CC-564,Contractor,L4,false,2026-09-15 13:34,
+E1090,Kai,Chowdhury,kai.chowdhury@example.com,Finance,Analyst,116000,9.7,GBP,2022-05-10,United Kingdom,Manchester,+1-716-725-3659,E1005,CC-914,Active,L3,false,2026-09-15 01:18,Relocation pending
+E1091,Indigo,Sokolova,indigo.sokolova@example.com,Legal,Specialist,211000,8.9,GBP,2015-01-01,Brazil,Recife,+1-236-665-9074,E1014,CC-745,Probation,L3,false,2026-09-17 16:57,Part-time schedule
+E1092,Noor,Garrity,noor.garrity@example.com,Legal,Senior Engineer,78000,3.2,CAD,2019-06-18,Germany,Munich,+1-255-486-7175,E1064,CC-771,Probation,L3,true,2026-09-07 05:59,Mentor programme
+E1093,Yuki,Vasquez,yuki.vasquez@example.com,Engineering,Manager,149000,3.2,CAD,2022-05-07,United Kingdom,Bristol,+1-891-425-6093,E1075,CC-158,Probation,L2,false,2026-09-05 10:42,
+E1094,Vesper,Alvarez,vesper.alvarez@example.com,People,Senior Engineer,117500,8.1,EUR,2020-01-20,United Kingdom,London,+1-676-548-1205,E1087,CC-581,Active,L3,false,2026-09-13 16:46,Relocation pending
+E1095,Noor,Janssen,noor.janssen@example.com,Legal,Director,206500,9.5,EUR,2019-06-12,Germany,Hamburg,+1-380-291-5960,E1033,CC-584,Active,L6,false,2026-09-06 15:33,Awaiting badge issue
+E1096,Reese,Ximenes,reese.ximenes@example.com,Customer Success,Staff Engineer,121500,19.9,JPY,2017-11-17,Brazil,Sao Paulo,+1-460-740-9503,E1086,CC-875,Active,L5,false,2026-09-13 21:29,Mentor programme
+E1097,Reese,Quintero,reese.quintero@example.com,Operations,Lead,167000,4.2,USD,2017-06-13,Japan,Fukuoka,+1-361-634-1338,E1066,CC-903,Probation,L5,true,2026-09-05 14:17,Mentor programme
+E1098,Avery,Bennett,avery.bennett@example.com,Legal,Senior Manager,212500,2.7,JPY,2024-05-30,Brazil,Curitiba,+1-349-949-3575,E1070,CC-448,Probation,L1,false,2026-09-22 09:23,Relocation pending
+E1099,Kai,Alvarez,kai.alvarez@example.com,Data,Associate,204500,10.9,JPY,2017-12-28,Germany,Hamburg,+1-942-455-4304,E1028,CC-878,Active,L3,true,2026-09-12 11:16,
+E1100,Zion,Larkin,zion.larkin@example.com,Finance,Senior Manager,64000,5.3,CAD,2017-01-21,United Kingdom,Manchester,+1-240-594-1637,E1065,CC-572,Probation,L3,true,2026-09-18 10:45,Awaiting badge issue
