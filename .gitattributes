@@ -1,3 +1,6 @@
-# Normalise line endings across platforms
+# Normalise line endings for source files
 * text=auto eol=lf
-*.csv text eol=lf
+
+# Generated fixtures and reports are written verbatim by the tools,
+# so leave them exactly as produced rather than re-encoding them.
+Test1/** -text
