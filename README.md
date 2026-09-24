@@ -1,5 +1,7 @@
 # csv-compare
 
+[![tests](https://github.com/mabobojr/csv-compare/actions/workflows/tests.yml/badge.svg)](https://github.com/mabobojr/csv-compare/actions/workflows/tests.yml)
+
 A command-line tool that compares two CSV files **row by row and column by
 column**, and reports every cell as either unchanged or changed.
 
